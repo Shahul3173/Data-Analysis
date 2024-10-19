@@ -20,6 +20,6 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shahul3173/data-analysis-visualization.git
+   git clone https://github.com/Shahul3173/data-analysis.git
    cd data-analysis-visualization
  to uncover insights and trends. The analysis includes data cleaning, exploration, and visualizations that help to understand the data better.
